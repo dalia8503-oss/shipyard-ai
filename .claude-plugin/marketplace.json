@@ -1,0 +1,12 @@
+{
+  "name": "shipyard-ai",
+  "owner": { "name": "Q&A Team" },
+  "description": "Q&A 팀을 위한 Claude Code 플러그인 마켓플레이스",
+  "plugins": [
+    {
+      "name": "qna-team-kit",
+      "source": "./plugins/qna-team-kit",
+      "description": "Q&A 팀을 위한 질문 분류 및 답변 작성 도구 모음"
+    }
+  ]
+}

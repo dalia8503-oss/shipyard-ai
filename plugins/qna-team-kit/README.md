@@ -4,7 +4,7 @@ Q&A 팀을 위한 Claude Code 플러그인입니다. 팀에 들어오는 질문�
 
 ## 설치
 ```
-/plugin install qna-team-kit --marketplace <owner>/<repo>
+/plugin install qna-team-kit --marketplace dalia8503-oss/shipyard-ai
 ```
 
 ## 구성
