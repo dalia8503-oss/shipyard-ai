@@ -1,0 +1,8 @@
+{
+  "name": "qc-kit",
+  "version": "0.1.0",
+  "description": "주간 검사 현황 집계·검증·문장 작성 워크플로우(weekly-ship)와 원본 데이터 보호 훅 모음",
+  "author": { "name": "Q&A Team" },
+  "license": "MIT",
+  "keywords": ["qc", "weekly", "report"]
+}

@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit|NotebookEdit|Bash|PowerShell",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"${CLAUDE_PLUGIN_ROOT}/hooks/block-data-edit.mjs\"",
+            "statusMessage": "data-셋째주/ 편집 차단 검사 중..."
+          }
+        ]
+      }
+    ]
+  }
+}
