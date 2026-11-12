@@ -1,0 +1,9 @@
+{
+  "name": "qna-team-kit",
+  "version": "0.1.0",
+  "description": "Q&A 팀을 위한 질문 분류 및 답변 작성 도구 모음",
+  "author": { "name": "Q&A Team" },
+  "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
+  "keywords": ["qna", "support", "team"]
+}
